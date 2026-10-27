@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Midnight Supermarket - Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.7;
+      color: #222;
+      background: #f8f8f8;
+    }
+    main {
+      background: white;
+      padding: 28px;
+      border-radius: 12px;
+    }
+    h1, h2 { color: #243b53; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Midnight Supermarket</h1>
+  <h2>Privacy Policy</h2>
+  <p>Last updated: October 27, 2026</p>
+
+  <h2>1. Introduction</h2>
+  <p>
+    This Privacy Policy explains how Midnight Supermarket
+    handles information when you play the game.
+  </p>
+
+  <h2>2. Save-Data Transfer</h2>
+  <p>
+    The game provides a feature that generates a code to
+    transfer or restore game progress on another device.
+    Keep your code private and share it only with people
+    you trust. The information contained in the code
+    depends on the game's implementation.
+  </p>
+
+  <h2>3. Local Multiplayer</h2>
+  <p>
+    The game supports multiplayer for up to four players
+    over a local Wi-Fi network. Devices may communicate
+    over that network to enable gameplay.
+  </p>
+
+  <h2>4. Data Collection and Third-Party Services</h2>
+  <p>
+    The use of local save-transfer and Wi-Fi multiplayer
+    features does not by itself mean that personal data
+    is sent to a remote server. Any additional data
+    collection, advertising, analytics, crash reporting,
+    or third-party services used by the published game
+    must be described accurately in this policy.
+  </p>
+
+  <h2>5. Data Security</h2>
+  <p>
+    Keep your device and save-transfer codes secure.
+    Avoid sharing codes publicly.
+  </p>
+
+  <h2>6. Children's Privacy</h2>
+  <p>
+    The developer should disclose any collection of
+    children's personal information by the game or its
+    third-party services, where applicable.
+  </p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>
+    This policy may be updated when the game's features
+    or data practices change. Updates will be published
+    on this page.
+  </p>
+
+  <h2>8. Contact</h2>
+  <p>
+    For privacy questions, contact the developer at:
+    muhammad.06.ai@gmail.com
+  </p>
+</main>
+</body>
+</html>
